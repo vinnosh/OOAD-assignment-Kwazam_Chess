@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Move
+comment1.params=board\ piece\ newCol\ newRow
+comment1.target=Move(Board,\ Piece,\ int,\ int)
+numComments=2

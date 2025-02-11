@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Ram
+comment1.params=board\ col\ row\ isRed
+comment1.target=Ram(Board,\ int,\ int,\ boolean)
+comment2.params=col\ row
+comment2.target=boolean\ isValidMovement(int,\ int)
+comment3.params=
+comment3.target=boolean\ isMovingForward()
+comment4.params=movingForward
+comment4.target=void\ setMovingForward(boolean)
+comment5.params=
+comment5.target=void\ turnAround()
+comment6.params=col\ row
+comment6.target=boolean\ MoveCollidesWithPiece(int,\ int)
+comment7.params=g2d
+comment7.target=void\ paint(java.awt.Graphics2D)
+numComments=8

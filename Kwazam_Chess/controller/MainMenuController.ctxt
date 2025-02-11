@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=MainMenuController
+comment1.params=mainMenuView
+comment1.target=MainMenuController(Kwazam_Chess.view.MainMenuView)
+comment2.params=
+comment2.target=void\ openSelectTime()
+comment3.params=
+comment3.target=void\ openSelectLoad()
+comment4.params=
+comment4.target=void\ exit()
+numComments=5

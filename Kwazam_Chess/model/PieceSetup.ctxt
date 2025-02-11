@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=PieceSetup
+comment1.params=board\ gameData
+comment1.target=java.util.List\ getDefaultSetup(Board,\ GameData)
+comment2.params=board\ savedPieces
+comment2.target=java.util.List\ getCustomSetup(Board,\ java.util.List)
+comment3.params=board\ pieceData
+comment3.target=java.util.List\ loadPiecesFromData(Board,\ java.lang.String[])
+numComments=4

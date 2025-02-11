@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=SelectTimeController
+comment1.params=selectTimeView
+comment1.target=SelectTimeController(Kwazam_Chess.view.SelectTimeView)
+comment2.params=selectedTime
+comment2.target=void\ startGameWithTime(int)
+comment3.params=
+comment3.target=void\ back()
+numComments=4

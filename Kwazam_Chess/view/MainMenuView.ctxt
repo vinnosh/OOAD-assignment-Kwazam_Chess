@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=MainMenuView
+comment1.params=
+comment1.target=MainMenuView()
+comment2.params=
+comment2.target=void\ dispose()
+comment3.params=listener
+comment3.target=void\ addStartListener(java.awt.event.ActionListener)
+comment4.params=listener
+comment4.target=void\ addLoadListener(java.awt.event.ActionListener)
+comment5.params=listener
+comment5.target=void\ addExitListener(java.awt.event.ActionListener)
+comment6.params=text
+comment6.target=javax.swing.JButton\ createButton(java.lang.String)
+comment7.params=evt
+comment7.target=void\ mouseEntered(java.awt.event.MouseEvent)
+comment8.params=evt
+comment8.target=void\ mouseExited(java.awt.event.MouseEvent)
+numComments=9
